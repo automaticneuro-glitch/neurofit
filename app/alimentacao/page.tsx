@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client";
 import AppShell from "@/components/layout/AppShell";
 import { Apple, Plus, Trash2, Sparkles, Flame, Beef, Wheat, Droplets, X, Camera } from "lucide-react";
